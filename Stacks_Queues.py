@@ -39,7 +39,8 @@ class Stack:
         self.top = node
 
     def peek(self):
-        return self.top.data
+        if self.top:
+            return self.top.data
 
     def getMin(self):
         # print 'minList length: ' + str(len(self.minList))
