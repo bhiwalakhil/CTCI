@@ -101,6 +101,23 @@ class Stack_with_Arrays:
             return None
         return self.stack_array[self.top[stack] - 1]
 
+class Queue_with_Stacks:
+    stackEnqueue = Stack()
+    stackDequeue = Stack()
+
+    def enqueue(self, data):
+        self.stackEnqueue.push(data)
+
+    def dequeue(self):
+        if self.stackDequeue.peek():
+            return self.stackDequeue.pop()
+        else:
+            while self.stackEnqueue.peek() != None:
+                self.stackDequeue.push(self.stackEnqueue.pop())
+        return self.stackDequeue.pop()
+
+class Sort_Stacks:
+
 
 if __name__ == '__main__':
     stack = Stack()
@@ -112,11 +129,11 @@ if __name__ == '__main__':
         stack_num.append(number)
 
     # print stack_num
-    print stack.getMin()
+    # print stack.getMin()
 
     for i in range(5000):
         stack.pop(),
-    print stack.getMin()
+    # print stack.getMin()
     # queue = Queue()
     # queue.enqueue(1)
     # queue.enqueue(2)
@@ -147,3 +164,16 @@ if __name__ == '__main__':
     # print stack_with_array.peek(1)
     # print stack_with_array.peek(2)
     # print stack_with_array.peek(3)
+
+    queue_stack = Queue_with_Stacks()
+    for i in range(10):
+        queue_stack.enqueue(i)
+
+    for i in range(5):
+        print queue_stack.dequeue()
+
+    for i in range(10, 20):
+        queue_stack.enqueue(i)
+
+    for i in range(15):
+        print queue_stack.dequeue()
