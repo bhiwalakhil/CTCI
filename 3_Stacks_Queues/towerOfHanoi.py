@@ -2,6 +2,7 @@ __author__ = 'kaushikn'
 
 from Stacks_Queues import Stack
 
+
 class TowerOfHanoi:
     towerSrc = Stack()
     towerInter = Stack()
@@ -11,7 +12,7 @@ class TowerOfHanoi:
     tDespeek = None
 
     def __init__(self, *args):
-            print elem
+        for elem in args:
             self.towerSrc.push(elem)
         self.updatePeek()
 
@@ -36,15 +37,16 @@ class TowerOfHanoi:
         if n == 1:
             self.move(towerSrc, towerDes)
         if n >= 2:
-            self.solve(n-1, towerSrc, towerInter, towerDes)
+            self.solve(n - 1, towerSrc, towerInter, towerDes)
             self.move(towerSrc, towerDes)
-            self.solve(n-1, towerInter, towerDes, towerSrc)
+            self.solve(n - 1, towerInter, towerDes, towerSrc)
         self.printTop()
 
     def outerSolve(self, n):
         self.solve(n, self.towerSrc, self.towerDes, self.towerInter)
 
-if __name__=='__main__':
+
+if __name__ == '__main__':
     N = 5
     arg = []
     for i in range(N, 0, -1):

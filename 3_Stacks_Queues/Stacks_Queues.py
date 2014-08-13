@@ -101,6 +101,7 @@ class Stack_with_Arrays:
             return None
         return self.stack_array[self.top[stack] - 1]
 
+
 class Queue_with_Stacks:
     stackEnqueue = Stack()
     stackDequeue = Stack()
@@ -115,8 +116,6 @@ class Queue_with_Stacks:
             while self.stackEnqueue.peek() != None:
                 self.stackDequeue.push(self.stackEnqueue.pop())
         return self.stackDequeue.pop()
-
-class Sort_Stacks:
 
 
 if __name__ == '__main__':
