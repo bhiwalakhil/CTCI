@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a39e69-9345-4241-a426-f22dbe10f382" name="Default" comment="Refactoring">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4_Trees_Graphs/LinkedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4_Trees_Graphs/Stacks_Queues.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Evernote_Challenge/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Evernote_Challenge/output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Evernote_Challenge/q1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Evernote_Challenge/q2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Evernote_Challenge/q3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4_Trees_Graphs/1_.py" afterPath="$PROJECT_DIR$/4_Trees_Graphs/1_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5_Bit_Manipulation/1_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9_Recursion_DP/1_CountingSteps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9_Recursion_DP/2_RobotPaths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9_Recursion_DP/3_magicIndex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackerRank/ManasaAndStone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apoorv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5_Bit_Manipulation/countOnes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9_Recursion_DP/subsetsOfSets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Evernote_Challenge/q2.py" afterPath="$PROJECT_DIR$/Evernote_Challenge/q2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CTCI.iws" />
@@ -32,62 +33,7 @@
     <favorites_list name="CTCI" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1_.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_Trees_Graphs/1_.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334" vertical-offset="1018" max-vertical-offset="1830">
-              <caret line="206" column="31" selection-start-line="206" selection-start-column="31" selection-end-line="206" selection-end-column="31" />
-              <folding>
-                <element signature="e#411#596#0" expanded="false" />
-                <element signature="e#636#817#0" expanded="false" />
-                <element signature="e#856#1035#0" expanded="false" />
-                <element signature="e#1076#1259#0" expanded="false" />
-                <element signature="e#1495#1842#0" expanded="false" />
-                <element signature="e#1883#2088#0" expanded="false" />
-                <element signature="e#2145#2515#0" expanded="false" />
-                <element signature="e#3036#3434#0" expanded="false" />
-                <element signature="e#3483#3702#0" expanded="false" />
-                <element signature="e#3734#3886#0" expanded="false" />
-                <element signature="e#3928#4805#0" expanded="false" />
-                <element signature="e#4856#5076#0" expanded="false" />
-                <element signature="e#5108#5131#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="975">
-              <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q3.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="840">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1305">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -106,18 +52,26 @@
         <option value="$PROJECT_DIR$/3_Stacks_Queues/Stacks_Queues.py" />
         <option value="$PROJECT_DIR$/3_Stacks_Queues/towerOfHanoi.py" />
         <option value="$PROJECT_DIR$/4_Trees_Graphs/LinkedList.py" />
-        <option value="$PROJECT_DIR$/4_Trees_Graphs/1_.py" />
         <option value="$PROJECT_DIR$/Evernote_Challenge/output.txt" />
         <option value="$PROJECT_DIR$/Evernote_Challenge/input.txt" />
-        <option value="$PROJECT_DIR$/Evernote_Challenge/q2.py" />
         <option value="$PROJECT_DIR$/Evernote_Challenge/q3.py" />
         <option value="$PROJECT_DIR$/Evernote_Challenge/q1.py" />
+        <option value="$PROJECT_DIR$/4_Trees_Graphs/1_.py" />
+        <option value="$PROJECT_DIR$/5_Bit_Manipulation/1_.py" />
+        <option value="$PROJECT_DIR$/5_Bit_Manipulation/apoorv.py" />
+        <option value="$PROJECT_DIR$/Evernote_Challenge/q2.py" />
+        <option value="$PROJECT_DIR$/9_Recursion_DP/1_CountingSteps.py" />
+        <option value="$PROJECT_DIR$/9_Recursion_DP/2_RobotPaths.py" />
+        <option value="$PROJECT_DIR$/9_Recursion_DP/subsetsOfSets.py" />
+        <option value="$PROJECT_DIR$/9_Recursion_DP/3_magicIndex.py" />
+        <option value="$PROJECT_DIR$/HackerRank/ManasaAndStone.py" />
+        <option value="$PROJECT_DIR$/5_Bit_Manipulation/countOnes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="790" />
+    <option name="width" value="1440" />
     <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -164,6 +118,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CTCI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CTCI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CTCI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CTCI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="9_Recursion_DP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CTCI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CTCI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5_Bit_Manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -188,64 +184,63 @@
       <recent name="$PROJECT_DIR$/4_Trees_Graphs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2_LinkedList" />
       <recent name="$PROJECT_DIR$/1_Arrays_Strings" />
       <recent name="$PROJECT_DIR$/3_Stacks_Queues" />
       <recent name="$PROJECT_DIR$/NLP_Cryptography" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q1">
-    <configuration default="false" name="towerOfHanoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.countOnes">
+    <configuration default="false" name="2_RobotPaths" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_Recursion_DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CTCI" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Stacks_Queues/towerOfHanoi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_Recursion_DP/2_RobotPaths.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="1_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="subsetsOfSets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Trees_Graphs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_Recursion_DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CTCI" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Trees_Graphs/1_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_Recursion_DP/subsetsOfSets.py" />
       <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ManasaAndStone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Evernote_Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CTCI" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evernote_Challenge/q2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/ManasaAndStone.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -253,19 +248,19 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="q3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3_magicIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Evernote_Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_Recursion_DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CTCI" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evernote_Challenge/q3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_Recursion_DP/3_magicIndex.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -273,19 +268,19 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="countOnes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Evernote_Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Bit_Manipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CTCI" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evernote_Challenge/q1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Bit_Manipulation/countOnes.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -413,19 +408,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.towerOfHanoi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1_" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.2_RobotPaths" />
+      <item index="1" class="java.lang.String" itemvalue="Python.subsetsOfSets" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ManasaAndStone" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3_magicIndex" />
+      <item index="4" class="java.lang.String" itemvalue="Python.countOnes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.q1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1_" />
-        <item index="4" class="java.lang.String" itemvalue="Python.towerOfHanoi" />
+        <item index="0" class="java.lang.String" itemvalue="Python.countOnes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ManasaAndStone" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3_magicIndex" />
+        <item index="3" class="java.lang.String" itemvalue="Python.subsetsOfSets" />
+        <item index="4" class="java.lang.String" itemvalue="Python.2_RobotPaths" />
       </list>
     </recent_temporary>
   </component>
@@ -443,31 +438,35 @@
       <created>1407903774334</created>
       <updated>1407903774334</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactoring">
+      <created>1408404791254</created>
+      <updated>1408404791254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="790" height="812" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="812" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33933517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33795014" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2639792" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3434903" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1430585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34210527" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27839336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27700832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33055556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -497,31 +496,43 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="51" />
+      <option name="time" value="59" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5_Bit_Manipulation/countOnes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="285">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/ManasaAndStone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="585">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Recursion_DP/3_magicIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="540">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Recursion_DP/2_RobotPaths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="585">
+          <caret line="31" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4_Trees_Graphs/1_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="693" max-vertical-offset="1470">
           <caret line="204" column="29" selection-start-line="204" selection-start-column="29" selection-end-line="204" selection-end-column="29" />
-          <folding>
-            <element signature="e#411#596#0" expanded="false" />
-            <element signature="e#636#817#0" expanded="false" />
-            <element signature="e#856#1035#0" expanded="false" />
-            <element signature="e#1076#1259#0" expanded="false" />
-            <element signature="e#1305#1460#0" expanded="false" />
-            <element signature="e#1495#1842#0" expanded="false" />
-            <element signature="e#1883#2088#0" expanded="false" />
-            <element signature="e#2145#2515#0" expanded="false" />
-            <element signature="e#2556#2989#0" expanded="false" />
-            <element signature="e#3036#3434#0" expanded="false" />
-            <element signature="e#3483#3702#0" expanded="false" />
-            <element signature="e#3734#3886#0" expanded="false" />
-            <element signature="e#3928#4805#0" expanded="false" />
-            <element signature="e#4856#5076#0" expanded="false" />
-            <element signature="e#5108#5131#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2745">
           <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="376" max-vertical-offset="2955">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,23 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="593" max-vertical-offset="1350">
           <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
-          <folding>
-            <element signature="e#411#596#0" expanded="false" />
-            <element signature="e#636#817#0" expanded="false" />
-            <element signature="e#856#1035#0" expanded="false" />
-            <element signature="e#1076#1259#0" expanded="false" />
-            <element signature="e#1305#1460#0" expanded="false" />
-            <element signature="e#1495#1842#0" expanded="false" />
-            <element signature="e#1883#2088#0" expanded="false" />
-            <element signature="e#2145#2515#0" expanded="false" />
-            <element signature="e#2556#2989#0" expanded="false" />
-            <element signature="e#3036#3434#0" expanded="false" />
-            <element signature="e#3483#3702#0" expanded="false" />
-            <element signature="e#3734#3886#0" expanded="false" />
-            <element signature="e#3928#4805#0" expanded="false" />
-            <element signature="e#4856#5076#0" expanded="false" />
-            <element signature="e#5108#5131#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -569,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2955">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,23 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="705">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#411#596#0" expanded="false" />
-            <element signature="e#636#817#0" expanded="false" />
-            <element signature="e#856#1035#0" expanded="false" />
-            <element signature="e#1076#1259#0" expanded="false" />
-            <element signature="e#1305#1460#0" expanded="false" />
-            <element signature="e#1495#1842#0" expanded="false" />
-            <element signature="e#1883#2088#0" expanded="false" />
-            <element signature="e#2145#2515#0" expanded="false" />
-            <element signature="e#2556#2989#0" expanded="false" />
-            <element signature="e#3036#3434#0" expanded="false" />
-            <element signature="e#3483#3702#0" expanded="false" />
-            <element signature="e#3734#3886#0" expanded="false" />
-            <element signature="e#3928#4805#0" expanded="false" />
-            <element signature="e#4856#5076#0" expanded="false" />
-            <element signature="e#5108#5131#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,23 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding>
-            <element signature="e#411#596#0" expanded="false" />
-            <element signature="e#636#817#0" expanded="false" />
-            <element signature="e#856#1035#0" expanded="false" />
-            <element signature="e#1076#1259#0" expanded="false" />
-            <element signature="e#1305#1460#0" expanded="false" />
-            <element signature="e#1495#1842#0" expanded="false" />
-            <element signature="e#1883#2088#0" expanded="false" />
-            <element signature="e#2145#2515#0" expanded="false" />
-            <element signature="e#2556#2989#0" expanded="false" />
-            <element signature="e#3036#3434#0" expanded="false" />
-            <element signature="e#3483#3702#0" expanded="false" />
-            <element signature="e#3734#3886#0" expanded="false" />
-            <element signature="e#3928#4805#0" expanded="false" />
-            <element signature="e#4856#5076#0" expanded="false" />
-            <element signature="e#5108#5131#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Stacks_Queues/Stacks_Queues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1607" max-vertical-offset="2715">
-          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/traceback.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33168316" vertical-offset="826" max-vertical-offset="4845">
@@ -695,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="721" max-vertical-offset="2715">
           <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="376" max-vertical-offset="2955">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,53 +666,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q1.py">
+    <entry file="file://$PROJECT_DIR$/3_Stacks_Queues/Stacks_Queues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1305">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="840">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="975">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="2.536127" vertical-offset="0" max-vertical-offset="2715">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Trees_Graphs/1_.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="1018" max-vertical-offset="1830">
+        <state vertical-scroll-proportion="0.21965317" vertical-offset="1063" max-vertical-offset="1875">
           <caret line="206" column="31" selection-start-line="206" selection-start-column="31" selection-end-line="206" selection-end-column="31" />
-          <folding>
-            <element signature="e#411#596#0" expanded="false" />
-            <element signature="e#636#817#0" expanded="false" />
-            <element signature="e#856#1035#0" expanded="false" />
-            <element signature="e#1076#1259#0" expanded="false" />
-            <element signature="e#1495#1842#0" expanded="false" />
-            <element signature="e#1883#2088#0" expanded="false" />
-            <element signature="e#2145#2515#0" expanded="false" />
-            <element signature="e#3036#3434#0" expanded="false" />
-            <element signature="e#3483#3702#0" expanded="false" />
-            <element signature="e#3734#3886#0" expanded="false" />
-            <element signature="e#3928#4805#0" expanded="false" />
-            <element signature="e#4856#5076#0" expanded="false" />
-            <element signature="e#5108#5131#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apoorv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09394572" vertical-offset="0" max-vertical-offset="480">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33039647" vertical-offset="0" max-vertical-offset="840">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Recursion_DP/1_CountingSteps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81983805" vertical-offset="0" max-vertical-offset="495">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.791498" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Evernote_Challenge/q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="810">
+          <caret line="35" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Recursion_DP/subsetsOfSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36437246" vertical-offset="0" max-vertical-offset="494">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Recursion_DP/2_RobotPaths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="585">
+          <caret line="31" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Recursion_DP/3_magicIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/ManasaAndStone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Bit_Manipulation/1_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="975">
+          <caret line="59" column="31" selection-start-line="57" selection-start-column="0" selection-end-line="59" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Bit_Manipulation/countOnes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0648415" vertical-offset="0" max-vertical-offset="694">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

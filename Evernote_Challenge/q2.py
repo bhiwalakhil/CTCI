@@ -26,11 +26,6 @@ def readInput():
         list_input.append(raw_input())
     return list_input
 
-    # To read input from a file
-    # with open('input.txt', 'r') as fp:
-    # list_input = fp.readlines()
-    # return list_input
-
 
 if __name__ == '__main__':
     list_input = readInput()
@@ -53,8 +48,3 @@ if __name__ == '__main__':
     if frequent_words:
         for word in frequent_words:
             print word
-
-            # To print output to another file
-            # if frequent_words:
-            # with open('output.txt', 'w') as fp:
-            # fp.write('\n'.join(frequent_words))
